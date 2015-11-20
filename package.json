@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "gupp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuhuijun/bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "zhuhj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuhuijun/bootstrap/issues"
+  },
+  "homepage": "https://github.com/zhuhuijun/bootstrap#readme"
+}
